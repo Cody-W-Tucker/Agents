@@ -74,11 +74,6 @@
             packages = [
               python.pkgs.venvShellHook
               python.pkgs.pip
-              # python.pkgs.autogen
-              python.pkgs.requests
-              python.pkgs.beautifulsoup4
-              python.pkgs.fake-useragent
-              python.pkgs.python-dotenv
               python.pkgs.pydantic
               python.pkgs.notebook
               python.pkgs.jupyter
